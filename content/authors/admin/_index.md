@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Comunicare.
 
-Interessi:
+interests:
 - Tecnologia
 - Informazione
 - Sport
 
-Istruzione:
+education:
   courses:
   - course: Direzione d'Impresa Marketing e Strategia
     institution: Università degli Studi di Torino
@@ -69,7 +69,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 Claudio Stoduto, torinese di nascita, sin da piccolo con una grandissima passione per tutto quello che riguardava la tecnologia ed il mondo dello sport. Trascorro il mio tempo libero con lo smartphone in mano sempre alla ricerca delle ultime novità. 
 
 Ad ottobre 2012 ho creato instaNews, un progetto totalmente incentrato sulla tecnologia, dopo una lunga esperienza sia personale che collaborativa nel settore con altre testate. Nel 2017 il sito in parte rinasce sotto un nuova veste che ingloba anche il progetto InstaSport (dedicato al mondo sportivo e con un taglio legato interamente al mondo dei social network). L’obiettivo è quello di renderlo un unico grande portale di informazione a 360 gradi con al centro le opinioni personali. Conduco sia il podcast tecnologico che quello sportivo in onda ogni lunedì e mercoledì alle ore 12.
