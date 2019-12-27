@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Comunicare.
 
-interests:
+Interessi:
 - Tecnologia
 - Informazione
 - Sport
 
-education:
+Istruzione:
   courses:
   - course: Direzione d'Impresa Marketing e Strategia
     institution: Università degli Studi di Torino
