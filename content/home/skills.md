@@ -17,16 +17,22 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "Podcasting"
   description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Marketing & SEO"
   description = "100%"  
   
 [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "10%"
+
+  [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
